@@ -1,5 +1,7 @@
 #! /bin/bash
 #
+# Author: Sven Festersen <sven@sven-festersen.de>
+#
 # Tests whether a host can be reached by pinging it once. Example:
 #
 #   check-online.sh <HOST>
